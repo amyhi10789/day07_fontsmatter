@@ -1,0 +1,17 @@
+h1 {
+font-family: "barlow", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+body {
+font-family: "barlow", sans-serif;
+font-weight: 200;
+font-style: normal;
+}
+
+em {
+font-family: "barlow", sans-serif;
+font-weight: 700;
+font-style: italic;
+}
